@@ -1,16 +1,17 @@
 # layout_demo
 
-A new Flutter project.
+Flutter Task 3.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. a simple layout page
+using Rows and Columns
 
-A few resources to get you started if this is your first Flutter project:
+## Group Members: 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+20K-1053 **Huzaifa Hanif**
+20K-0340 **Sarosh Jawed**
+20K-0361 **Syed Zeeshan Aijaz**
+  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
